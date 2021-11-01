@@ -1,4 +1,4 @@
-# Algebra_Abs-
+# Alg.Euclides
 En el archivo .cpp nombrado EuclidesExt se encontrará el programa referente al algoritmo extendido de Euclides. El mismo consta de 3 funciones:
 - modulo: Calcula el valor de un número a en un módulo n.
 - euclides: Mediante la implementación del algoritmo de Euclides calcula el gcd de los números x,y.
